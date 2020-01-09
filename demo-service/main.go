@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/micro/go-micro"
 	"log"
-	pb "laracom/demo-service/proto/demo"
+	pb "github.com/doubuking/laracom/demo-service/proto/demo"
 
 )
 
